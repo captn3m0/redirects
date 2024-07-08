@@ -1,0 +1,20 @@
+---
+- domain: github.captnemo.in
+  template: https://github.com/captn3m0/:splat
+- domain: lightsaber.captnemo.in
+  template: https://github.com/captn3m0/lightsaber
+- domain: redirects.captnemo.in
+  template: https://github.com/captn3m0/redirects
+- domain: twitter.captnemo.in
+  template: https://twitter.com/captn3m0
+- domain: about.captnemo.in
+  template: https://about.me/n3m0
+- domain: books.captnemo.in
+  template: https://goodreads.com/user/show/6170741-abhay-rana
+- domain: fb.captnemo.in
+  template: https://facebook.com/captn3m0
+
+- domain: mail.shauryaa.in
+  template: https://webmail.migadu.com
+- domain: chat.hackercouch.com
+  template: https://webchat.freenode.net/?channels=hackercouch

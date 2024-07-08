@@ -1,0 +1,6 @@
+---
+layout: null
+---
+{% for R in site.data.redirects %}
+https://{{R.domain}}/* {{R.template}} 302
+{% endfor %}
