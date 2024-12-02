@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 # Till https://github.com/protocolbuffers/protobuf/pull/17240 is released
-gem "google-protobuf", "4.28.3"
+gem "google-protobuf", "4.29.0"
